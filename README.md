@@ -155,6 +155,7 @@ Media data:
 - [news-please](https://github.com/fhamborg/news-please) - integrated web crawler and information extractor for news that just works  (Python).
 - [Newsmap](https://github.com/koheiw/newsmap) - semi-supervised geographical news classifier (R). [Journal article](https://doi.org/10.1080/21670811.2017.1293487).
 - [Scrapy](https://github.com/scrapy/scrapy) - fast high-level web crawling and web scraping framework (Python).
+- [News Factory](https://news-factory.app/) - AI-powered news aggregation platform that monitors RSS feeds and news sources, curates content with AI, and delivers personalized briefings. Platform for journalists and media researchers tracking news coverage.
 
 ## Online archives and archiving
 
